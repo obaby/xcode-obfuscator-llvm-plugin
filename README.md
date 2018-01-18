@@ -21,5 +21,6 @@ Xcode ollvm 插件，安装前请修改下面的clang路径为你自己的ollvm 
 
 禁用Enable Indexing while building即可
 
+已知问题，xcode9.2 无法编译iOS项目。目前还没找到解决方案
 
 更多信息： [http://www.h4ck.org.cn/2018/01/xcode-9-2-集成obfuscator-llvm/]( http://www.h4ck.org.cn/2018/01/xcode-9-2-集成obfuscator-llvm/)
